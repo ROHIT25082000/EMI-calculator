@@ -87,7 +87,7 @@ form button:hover {
 @media screen and (max-width: 981px) { 
     .container {
         width: 90%; 
-        height: 70vh;
+        height: 90vh;
         margin-top: 10%;
         background-color: #f4f4f4;   
         border-radius: 15px; 
@@ -101,7 +101,7 @@ form button:hover {
 
     .container {
         width: 100%; 
-        height: 70vh;
+        height: 90vh;
         margin-top: 10%;
         background-color: #f4f4f4;   
         border-radius: 15px; 
