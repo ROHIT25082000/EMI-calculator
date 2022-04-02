@@ -1,2 +1,2 @@
 # EMI-calculator
-EMI-calculator in Vanilla Javascript, Html, Css 
+EMI-calculator in Vanilla Javascript, Html, Css no Frameworks.
